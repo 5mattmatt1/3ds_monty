@@ -1,0 +1,7 @@
+I feel like a large amount of things have been neglected to maintain this project.
+Along with doing my absolute best to add comments as much as possible to the code that is wrapping everything together 
+I also plan on doing what I can to update it.
+Main thing I want to do is create a basic engine called Smaragd (German word for Emerald) that would help handle all the important parts of
+game development and would be heavily based off of pygame and would aim to allow pygame projects to easily transition over to
+the 3ds. There also might be future work to try to get work on porting RPGMaker projects to work this way as well. This will of course 
+require a rewrite of the main RPGMaker engine into Micropython and use Smaragd bindings but shouldn't be too hard to make SmaragdRPG.
