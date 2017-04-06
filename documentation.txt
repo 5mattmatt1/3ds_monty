@@ -1,0 +1,12 @@
+MP_Q_STR
+Generates some wraper that LOCAL_INT and LOCAL_METHOD love so damn much seems to be the thing doing all the real exposing
+Requires references in qstrdefsport.h to be worthwhile
+
+LOCAL_INT
+Exposes a variable to python for the module of type INT
+
+LOCAL_METHOD
+Exposes a method to python for the module
+
+monty/qstrdefsport.h 
+A file that is made to update all ported variables. There is no way at all this could get tedious
